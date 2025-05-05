@@ -35,3 +35,10 @@ The repository includes the following files:
 1. Make sure you have PHP installed. You can check using:
    ```bash
    php -v
+
+## Run a file using:
+  ```bash
+php filename.php
+
+   
+   
